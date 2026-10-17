@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Drift",
+    "slug": "night-sounds",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nightsounds.app"
+    },
+    "android": {
+      "package": "com.nightsounds.app"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "enableBackgroundPlayback": true,
+          "enableBackgroundRecording": false,
+          "microphonePermission": false,
+          "recordAudioAndroid": false
+        }
+      ],
+      "expo-asset"
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b1ad1bfd-7b22-4b40-92f8-6787586ae07a"
+      }
+    }
+  }
+}

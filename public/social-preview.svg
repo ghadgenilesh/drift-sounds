@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" hten="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#21283d"/><stop offset="1" stop-color="#0b1421"/></linearGradient><radialGradient id="halo"><stop stop-color="#b7a5dc" stop-opacity=".19"/><stop offset="1" stop-color="#b7a5dc" stop-opacity="0"/></radialGradient><linearGradient id="wave"><stop stop-color="#a7c9ce"/><stop offset="1" stop-color="#b8a3e1"/></linearGradient></defs>
+<rect width="1200" hten="630" fill="url(#bg)"/><circle cx="980" cy="210" r="370" fill="url(#halo)"/>
+<g fill="#d7d3e3" opacity=".4"><circle cx="835" cy="110" r="2"/><circle cx="1102" cy="295" r="2"/><circle cx="710" cy="185" r="1.5"/><circle cx="1136" cy="89" r="1.5"/><circle cx="782" cy="380" r="2"/></g>
+<g transform="translate(70 66)"><path d="M35 0A27 27 0 1 0 49 48A26 26 0 0 1 35 0" fill="#d9c5a7"/><text x="74" y="35" fill="#e8e2d8" font-family="Helvetica,Arial,sans-serif" font-size="23" letter-spacing="5">DRIFT</text></g>
+<text x="70" y="260" fill="#f1ece4" font-family="Georgia,serif" font-size="88">Find your quiet.</text>
+<text x="74" y="326" fill="#b6bdcb" font-family="Helvetica,Arial,sans-serif" font-size="28">Sixteen sounds. A softer end to your day.</text>
+<text x="74" y="394" fill="#aebacc" font-family="Helvetica,Arial,sans-serif" font-size="22">Rain · Ocean · Forest · Brown noise</text>
+<g transform="translate(912 190)" fill="none" stroke="url(#wave)" stroke-width="7" stroke-linecap="round"><path d="M0 45v40M23 15v100M46 0v130M69 25v80M92 50v30"/></g>
+<path d="M0 530 Q200 485 400 530 T800 530 T1200 530" fill="none" stroke="#a5c9cf" stroke-width="1" opacity=".18"/>
+<text x="74" y="558" fill="#d9c5a7" font-family="Helvetica,Arial,sans-serif" font-size="20" letter-spacing="3">DRIFT.STACKLETS.APP</text>
+<text x="1100" y="558" text-anchor="end" fill="#a7b3c1" font-family="Helvetica,Arial,sans-serif" font-size="20">Free. Offline ready.</text>
+</svg>

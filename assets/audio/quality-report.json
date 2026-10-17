@@ -1,0 +1,162 @@
+[
+  {
+    "name": "rainy-cabin",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 51.516122448979594,
+    "peak_dbfs": -3.1,
+    "rms_dbfs": -24.04,
+    "seam_delta": 0.001922607421875,
+    "sha256": "42103e82595c3e45fbe3124f98a6ccfdd97d794bd606e3b83ec86fb0431236f5"
+  },
+  {
+    "name": "ocean-night",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -3.1,
+    "rms_dbfs": -28.66,
+    "seam_delta": 0.000885009765625,
+    "sha256": "5e67a1e8072956d64c7e89f72668c2aef3f5dc6af8b9d8cb2db918ed12cea248"
+  },
+  {
+    "name": "monsoon",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -7.13,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.01019287109375,
+    "sha256": "66b01e5773e3955b312387e70c4c1029a17d0cb62671b6f55717368ff9356b4c"
+  },
+  {
+    "name": "forest-night",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -3.1,
+    "rms_dbfs": -25.81,
+    "seam_delta": 0.031219482421875,
+    "sha256": "c02789296736f025f72cb62e7898831b83719914cda0d342556dbbdfb90a3664"
+  },
+  {
+    "name": "fireplace",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 74.73922902494331,
+    "peak_dbfs": -3.1,
+    "rms_dbfs": -28.31,
+    "seam_delta": 0.001983642578125,
+    "sha256": "5108a2a3f7007145408bf65040cdf258e72f3ff2253d3e985f757b99288b19ab"
+  },
+  {
+    "name": "city-night",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -4.41,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.004608154296875,
+    "sha256": "581d9fb009c0cfe929bbe6f907b23217187ac026dc71f31dbabd2b60a30c1881"
+  },
+  {
+    "name": "brown-noise",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -10.34,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.005523681640625,
+    "sha256": "20fc091988ed51e2bc2a45c03095a0970dee60ce918f9a55d70ce14bfe2bef55"
+  },
+  {
+    "name": "deep-space",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -9.24,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.00897216796875,
+    "sha256": "0b3ab2ecc0cb363ea20f0391b0132aac71e22f4f1366aabdc2e5778c031c94db"
+  },
+  {
+    "name": "rain-on-roof",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 64.70401360544217,
+    "peak_dbfs": -3.1,
+    "rms_dbfs": -33.83,
+    "seam_delta": 0.0029296875,
+    "sha256": "0682c46020630a9c42c7c529e205072fafada2eec95f0b3f1b197b6c9447ca10"
+  },
+  {
+    "name": "stream",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 52.766621315192744,
+    "peak_dbfs": -3.95,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.005706787109375,
+    "sha256": "a902e17cc781789a63053b88f1f7eb053891da93dc1e8827f5f3132f191d5bbf"
+  },
+  {
+    "name": "busy-kitchen",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 54.95263038548753,
+    "peak_dbfs": -6.47,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.00311279296875,
+    "sha256": "87b6afb6f4105ab50ec972d859467a9235e3855022c491ab2891ea86fc036940"
+  },
+  {
+    "name": "wind-chime",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 68.06521541950113,
+    "peak_dbfs": -8.32,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.00225830078125,
+    "sha256": "4d1fbb49fe077a82f91b419215a443bb438f9158772b5413c9b98e71a34eb8ad"
+  },
+  {
+    "name": "cafe",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 51.99968253968254,
+    "peak_dbfs": -8.66,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.011077880859375,
+    "sha256": "c69d3cfcb29d4ca1d69e622b7380a68deb5db6305377f2de668c0cb789330e6c"
+  },
+  {
+    "name": "subway",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -9.2,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.002227783203125,
+    "sha256": "0a42027134caf8224c79140ce572c2142797ae424fe5444e4d3168ecc20bb7f8"
+  },
+  {
+    "name": "traffic",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 90.0,
+    "peak_dbfs": -8.67,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.007781982421875,
+    "sha256": "581b4a848c142666cae5e9f3191defb916f021678da0d893404421de52ffbbc8"
+  },
+  {
+    "name": "windy-day",
+    "sample_rate": 44100,
+    "channels": 2,
+    "seconds": 82.81467120181406,
+    "peak_dbfs": -9.26,
+    "rms_dbfs": -24.01,
+    "seam_delta": 0.00048828125,
+    "sha256": "ebdee9c3a7ddd096bea9957702d18ab7cd8a1558006adab434ca0ec77180752d"
+  }
+]
